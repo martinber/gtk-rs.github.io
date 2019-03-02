@@ -55,6 +55,6 @@ assert_eq!(is_a::<_, gtk::Label>(&button), false);
 
 <div class="footer">
 <div><a href="./closures">Callbacks and closures</a>.</div>
-<div><a href="/docs-src/tutorial">Going back to summary</a>.</div>
+<div><a href="{{ site.baseurl }}/docs-src/tutorial">Going back to summary</a>.</div>
 <div><a href="./glade">Glade</a>.</div>
 </div>

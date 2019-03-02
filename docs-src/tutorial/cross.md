@@ -158,6 +158,6 @@ then download the windows 10 them from http://b00merang.weebly.com/windows-10.ht
 
 <div class="footer">
 <div><a href="./glade">Glade</a>.</div>
-<div><a href="/docs-src/tutorial">Going back to summary</a>.</div>
+<div><a href="{{ site.baseurl }}/docs-src/tutorial">Going back to summary</a>.</div>
 <div></div>
 </div>

@@ -23,4 +23,4 @@ In this part we'll go deeper into the mechanisms of the `Gtk-rs` crates. If you'
 
 ## Going further
 
-Make sure to check the [examples repository](https://github.com/gtk-rs/examples). Also you can take a look at the source code of [projects using `gtk-rs`](/#projects-using-gtk-rs).
+Make sure to check the [examples repository](https://github.com/gtk-rs/examples). Also you can take a look at the source code of [projects using `gtk-rs`]({{ site.baseurl }}/#projects-using-gtk-rs).
